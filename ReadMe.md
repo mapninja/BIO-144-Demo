@@ -2,6 +2,8 @@
 
 ### Short overview of Remote Sensing, Planet.com & GEE (lecture)
 
+Slides - https://slides.com/staceymaples/bio144 
+
 ### Planet.com Demo
 #### Planet Explorer:
 https://www.planet.com/explorer/?s=6WC_TeOQSK6-6cjGHDivUg
@@ -26,4 +28,4 @@ https://code.earthengine.google.com/?accept_repo=users/maplesstanford/bio144
 
 #### Stanford Geospatial Center Resources:
 * SGC Libguide - Info on accessing all of SGC's resources, including Planet.com & Google Earth Engine - https://guides.library.stanford.edu/sgc
-* 
+* https://gis.stanford.edu - The Stanford Geospatial Center Website
