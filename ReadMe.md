@@ -17,8 +17,9 @@ https://www.planet.com/explorer/?s=6WC_TeOQSK6-6cjGHDivUg
 
 ### Google Earth Engine Demo
 
-#### BIO144 Sample Scripts
-https://code.earthengine.google.com/?accept_repo=users/maplesstanford/bio144
+* Dynamic World Data Catalog Page - https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1  
+* BIO144 Sample Scripts
+https://code.earthengine.google.com/?accept_repo=users/maplesstanford/bio144 
 
 #### More GEE Resources:
 * Stace's GEE 101 Workshop (Self-paced) - https://arcg.is/0DmS590  
